@@ -211,16 +211,6 @@ short_window = 20  # 20-day MA
 long_window = 50   # 50-day MA
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Run the test suite (`python tests/run_all_tests.py`)
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
-
 ## 🛣️ Roadmap
 
 ### Phase 1: Core Backend ✅ (Completed)
@@ -269,13 +259,5 @@ This tool is for educational and analysis purposes only. All trading decisions a
 - [FastAPI](https://fastapi.tiangolo.com/) for the API framework
 - [pandas](https://pandas.pydata.org/) for data manipulation
 - [matplotlib](https://matplotlib.org/) for visualization
-
-## 📞 Support
-
-- Create an [issue](https://github.com/yourusername/trading-advisor/issues) for bug reports
-- Start a [discussion](https://github.com/yourusername/trading-advisor/discussions) for questions
-- Check the [documentation](https://github.com/yourusername/trading-advisor/wiki) for detailed guides
-
----
 
 **⭐ Star this repository if you find it helpful!**
